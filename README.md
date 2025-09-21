@@ -12,8 +12,8 @@
 
 - [Apps](#apps)
 - [Open Source Apps](#open-source-apps)
+- [Design Systems](#design-systems)
 - [Libraries](#libraries)
-- [Addons / Libraries](#addons)
 - [Learning Resources](#learning-resources)
 - [Tools](#tools)
 - [Testing](#testing)
@@ -38,7 +38,14 @@
 - [Crates.io](https://crates.io/) - [Source](https://github.com/rust-lang/crates.io) - The Rust Package Registry
 - [Vault](https://developer.hashicorp.com/vault) - [Source](https://github.com/hashicorp/vault/tree/master/ui/app) - HashiCorp's tool for managing secrets
 
+## Design Systems
 
+- [Elastic EUI](https://github.com/prysmex/ember-eui/tree/master) - by @prysmex
+- [Hokulea](https://github.com/hokulea/hokulea) - by @gossi
+- [Frontile](https://github.com/josemarluedke/frontile) - by @josemarluedke
+- [NRG UI](https://github.com/knoxville-utilities-board/nrg-ui) - by Knoxville Utilities Board
+- [Carbon](https://github.com/IBM/carbon-components-ember) - by IBM
+- [Helios](https://github.com/hashicorp/design-system) - by Hashicorp
 
 ## Libraries
 
@@ -55,8 +62,6 @@
 
 - [WarpDrive](https://github.com/warp-drive-data/warp-drive) - Universal data management for use with any framework
 - [glimmer-apollo](https://github.com/josemarluedke/glimmer-apollo) - Integration with Apollo Client
-
-## Addons
 
 ### UI Components
 
@@ -76,12 +81,6 @@
 - [ember-scoped-css](https://github.com/auditboard/ember-scoped-css/) - enables usage of co-located CSS stylesheets with automated scoping of the styles. 
 
 
-### Testing
-
-- [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests
-- [ember-percy](https://github.com/percy/ember-percy) - Visual regression testing
-- [ember-exam](https://github.com/trentmwillis/ember-exam) - Test randomization, splitting, and parallelization
-
 ### Internationalization
 
 - [ember-intl](https://github.com/ember-intl/ember-intl) - Internationalization support with ICU message formatting
@@ -95,17 +94,15 @@
 - [embroider](https://github.com/embroider-build/embroider) - Compiling Ember apps into spec-compliant, modern JavaScript
 - [ember-vite-codemod](https://github.com/mainmatter/ember-vite-codemod) - Migrates non-vite Ember Apps to Vite 
 
-### Modern UI Primitives
+### Utilities 
 
+- [@responsive-image/ember](https://emberobserver.com/addons/@responsive-image/ember) - automatically create responsive optimized images for faster page loads
 - [ember-primitives](https://github.com/universal-ember/ember-primitives) - Primitives for building UI faster
 - [reactiveweb](https://github.com/universal-ember/reactiveweb) - Reactive primitives for the web
-
-### Other
-
 - [ember-page-title](https://github.com/tim-evans/ember-page-title) - Page title management
 - [ember-resources](https://github.com/NullVoxPopuli/ember-resources) - Resource utilities for Ember
 - [ember-concurrency](https://github.com/machty/ember-concurrency) - Improved concurrency primitives
-
+- [ember-keyboard](https://emberobserver.com/addons/ember-keyboard) - easy key-combos
 
 ## Learning Resources
 
@@ -147,15 +144,19 @@
 
 ## Testing
 
-### Test Runners
+### Runners
 
 - [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit integration
 - [ember-vitest](https://github.com/NullVoxPopuli/ember-vitest) - Vitest integration
 
-### Test Utilities
+### Utilities
 
 - [ember-test-helpers](https://github.com/emberjs/ember-test-helpers) - Test helper functions
 - [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - Accessibility testing
+- [ember-percy](https://github.com/percy/ember-percy) - Visual regression testing
+- [ember-exam](https://github.com/trentmwillis/ember-exam) - Test randomization, splitting, and parallelization
+- [@universal-ember/test-support](https://github.com/universal-ember/test-support) - Collection of additional, community maintained, test-utilities
+
 
 ## Community
 
