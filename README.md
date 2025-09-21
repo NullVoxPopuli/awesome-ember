@@ -104,6 +104,14 @@
 - [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - Deployment pipeline
 - [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Template linting
 - [ember-auto-import](https://github.com/ef4/ember-auto-import) - Zero config imports from npm
+- [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - Update Ember CLI projects
+- [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) - Component explorer
+
+### Accessibility
+
+- [ember-a11y](https://github.com/ember-a11y/ember-a11y) - Collection of accessibility tools
+- [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) - Focus management utilities
+- [ember-page-title](https://github.com/tim-evans/ember-page-title) - Page title management
 
 ### Internationalization
 
@@ -113,6 +121,14 @@
 
 - [ember-concurrency](https://github.com/machty/ember-concurrency) - Improved concurrency primitives
 - [ember-infinity](https://github.com/ember-infinity/ember-infinity) - Infinite scroll implementation
+- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - Service worker support
+- [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) - Server-side rendering
+
+### HTTP & Data Fetching
+
+- [ember-ajax](https://github.com/ember-cli/ember-ajax) - Service for making AJAX requests
+- [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - WebSocket integration
+- [ember-fetch](https://github.com/ember-cli/ember-fetch) - Fetch API polyfill and wrapper
 
 ## Learning Resources
 
@@ -191,6 +207,21 @@
 - [The Ember Times](https://the-emberjs-times.ongoodbits.com/) - Weekly newsletter
 - [Ember Weekly](http://www.emberweekly.com/) - Community newsletter
 - [EmberMap Podcast](https://embermap.com/topics/the-embermap-podcast) - Technical discussions
+
+### Blogs & Articles
+
+- [Ember.js Blog](https://emberjs.com/blog/) - Official blog with announcements and guides
+- [EmberMap Blog](https://blog.embermap.com) - Technical articles and tutorials
+- [DockYard Blog](https://dockyard.com/blog/categories/ember) - Ember.js articles and best practices
+- [Simplabs Blog](https://simplabs.com/blog/) - Advanced Ember.js topics
+- [BalintErdi.com](https://balinterdi.com/blog/) - Ember.js insights and tutorials
+
+### Videos & Screencasts
+
+- [EmberConf](https://www.youtube.com/channel/UCukrIWlcLIkDLNmEh2lFpYA) - Annual conference videos
+- [EmberMap](https://embermap.com) - Professional screencasts and tutorials
+- [Ember Screencasts](https://www.emberscreencasts.com/) - Weekly screencasts
+- [EmberFest](https://www.youtube.com/playlist?list=PLN4SpDLOSVkT0e094BZhGkUnf2WBF09xx) - European conference videos
 
 ### Social Media
 
