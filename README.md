@@ -50,15 +50,11 @@
 
 ### State Management
 
-- [ember-redux](http://www.ember-redux.com/) - Predictable state management for Ember apps
-- [ember-buffered-proxy](https://github.com/yapplabs/ember-buffered-proxy) - Buffer changes to a content object
 - [ember-changeset](https://github.com/poteto/ember-changeset) - Changeset implementation for form validations
-- [ember-state-services](https://github.com/stefanpenner/ember-state-services) - State management utilities
 
 ### Authentication
 
 - [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - Lightweight authentication library
-- [torii](https://github.com/Vestorly/torii) - Set of clean abstractions for authentication
 
 ### Data Management
 
@@ -70,7 +66,6 @@
 
 ### UI Components
 
-- [ember-paper](https://github.com/miguelcobain/ember-paper) - Material Design components
 - [ember-bootstrap](http://www.ember-bootstrap.com/) - Bootstrap components for Ember.js
 - [ember-power-select](https://github.com/cibernox/ember-power-select) - Extensible select component
 - [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - Basic dropdown component
@@ -85,7 +80,6 @@
 
 - [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Computed property based validations
 - [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - Validations for ember-changeset
-- [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - Add validations to Ember Data models
 
 ### Styling
 
@@ -106,7 +100,6 @@
 - [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Template linting
 - [ember-auto-import](https://github.com/ef4/ember-auto-import) - Zero config imports from npm
 - [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - Update Ember CLI projects
-- [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) - Component explorer
 
 ### Accessibility
 

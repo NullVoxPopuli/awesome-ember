@@ -31,7 +31,8 @@ Thank you for considering contributing to Awesome Ember.js! This list is a commu
 
 ✅ **Good additions:**
 - Open source Ember.js applications
-- Well-maintained addons and libraries
+- Well-maintained addons and libraries (updated within the last year)
+- **V2 addons only** - addons must be in the v2 addon format
 - High-quality tutorials and learning resources
 - Useful development tools
 - Active community resources
@@ -39,10 +40,26 @@ Thank you for considering contributing to Awesome Ember.js! This list is a commu
 
 ❌ **Please avoid:**
 - Commercial products or services (unless free/open source)
-- Abandoned or unmaintained projects
+- Abandoned or unmaintained projects (not updated in over a year)
+- **V1 addons** - only v2 addons are accepted
 - Resources not specifically related to Ember.js
 - Duplicate entries
 - Self-promotional content without clear value
+
+### V2 Addon Requirement
+
+All Ember.js addons listed must be in the **v2 addon format**. You can identify a v2 addon by checking the `package.json` file:
+
+```json
+{
+  "ember-addon": {
+    "version": 2,
+    "type": "addon"
+  }
+}
+```
+
+V1 addons are no longer accepted as they represent legacy addon patterns that are being phased out in favor of the more modern v2 format.
 
 ### Formatting
 
