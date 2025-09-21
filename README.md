@@ -28,6 +28,7 @@
 - [percy](https://percy.io/) - visual regression testing and review platform
 - [PomoTimer](https://pomotimer.io/) - a Pomodoro timer
 - [typelog](https://typelog.dev/) - a community of "build in public" and collaboration
+- [Feldico](https://feldico.com/) - Feldico is Argentina’s #1 platform connecting farmers and rural contractors.
 
 ## Open Source Apps
 
