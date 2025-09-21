@@ -37,6 +37,7 @@
 - [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted chat with no history or logs
 - [Percy](https://github.com/percy/percy-web) - Visual testing platform frontend
 - [Fire Tracker](https://github.com/SCPR/fire-tracker) - Tool for tracking California wildfires
+- [Limber](https://github.com/NullVoxPopuli/limber) - Online Ember.js playground and tutorial platform
 
 ## Libraries
 
@@ -116,6 +117,28 @@
 ### Internationalization
 
 - [ember-intl](https://github.com/ember-intl/ember-intl) - Internationalization support with ICU message formatting
+
+### TypeScript
+
+- [ember-cli-typescript](https://github.com/typed-ember/ember-cli-typescript) - Use TypeScript in your Ember.js apps
+- [glint](https://github.com/typed-ember/glint) - TypeScript powered tooling for Glimmer templates
+- [ember-typings](https://github.com/typed-ember/ember-typings) - TypeScript type definitions for Ember.js
+
+### Build Tools & Modern Compilation
+
+- [embroider](https://github.com/embroider-build/embroider) - Compiling Ember apps into spec-compliant, modern JavaScript
+- [ember-vite](https://github.com/mainmatter/ember-vite-codemod) - Vite integration for Ember applications
+
+### Modern UI Primitives
+
+- [ember-primitives](https://github.com/universal-ember/ember-primitives) - Primitives for building UI faster
+- [reactiveweb](https://github.com/universal-ember/reactiveweb) - Reactive primitives for the web
+
+### New Generation Tools
+
+- [limber](https://github.com/NullVoxPopuli/limber) - Online Ember.js playground and tutorial system
+- [ember-resources](https://github.com/NullVoxPopuli/ember-resources) - Resource utilities for Ember.js
+- [kolay](https://github.com/universal-ember/kolay) - Docs system based on markdown files
 
 ### Performance
 
@@ -201,6 +224,13 @@
 - [Ember.js Blog](https://emberjs.com/blog/) - Official blog with announcements
 - [Forum](https://discuss.emberjs.com/) - Official discussion forum
 - [Discord](https://discordapp.com/invite/zT3asNS) - Real-time chat
+
+### Recent Releases & Features
+
+- [Ember.js 6.7.0](https://github.com/emberjs/ember.js/releases/tag/v6.7.0-ember-source) - Latest stable release with `trustHTML` API and internal improvements
+- [Ember.js 6.8.0 Beta](https://github.com/emberjs/ember.js/releases/tag/v6.8.0-beta.3-ember-source) - Upcoming features including Tracked Collections and `renderComponent`
+- [RFC #1068: Tracked Collections](https://rfcs.emberjs.com/id/1068-tracked-collections) - Built-in tracked data structures
+- [RFC #1099: renderComponent](https://rfcs.emberjs.com/id/1099-renderComponent) - New API for rendering components
 
 ### Learning & News
 
