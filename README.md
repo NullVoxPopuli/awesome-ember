@@ -38,6 +38,7 @@
 - [Limber](https://limber.glimdown.com/) - [Source](https://github.com/NullVoxPopuli/limber) - Multi-framework REPL and playground
 - [Crates.io](https://crates.io/) - [Source](https://github.com/rust-lang/crates.io) - The Rust Package Registry
 - [Vault](https://developer.hashicorp.com/vault) - [Source](https://github.com/hashicorp/vault/tree/master/ui/app) - HashiCorp's tool for managing secrets
+- [UniDancing.art](https://unidancing.art) - [Source](https://github.com/gossi/unidancing) - Training resources for unicycling
 
 ## Design Systems
 
@@ -107,6 +108,7 @@
 - [ember-resources](https://github.com/NullVoxPopuli/ember-resources) - Resource utilities for Ember
 - [ember-concurrency](https://github.com/machty/ember-concurrency) - Improved concurrency primitives
 - [ember-keyboard](https://emberobserver.com/addons/ember-keyboard) - easy key-combos
+- [ember-aria-voyager](https://github.com/hokulea/aria-voyager) - aria keyboard support for composite controls
 
 ## Learning Resources
 
@@ -115,6 +117,7 @@
 - [Ember Guides](https://guides.emberjs.com/) - Official comprehensive guides
 - [Super Rentals Tutorial](https://guides.emberjs.com/release/tutorial/part-1/) - Official step-by-step tutorial
 - [Interactive cheatsheet-based tutorial](https://tutorial.glimdown.com/)
+- [Component Architecture](https://ember-handbook.netlify.app/component-architecture/)
 
 ### Books
 
