@@ -201,6 +201,40 @@
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/NullVoxPopuli">
+                    <img src="https://avatars.githubusercontent.com/u/199018?v=4" width="100;" alt="NullVoxPopuli"/>
+                    <br />
+                    <sub><b>NullVoxPopuli</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mkszepp">
+                    <img src="https://avatars.githubusercontent.com/u/19845290?v=4" width="100;" alt="mkszepp"/>
+                    <br />
+                    <sub><b>Markus Sanin</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/marcemira">
+                    <img src="https://avatars.githubusercontent.com/u/1788212?v=4" width="100;" alt="marcemira"/>
+                    <br />
+                    <sub><b>Marcelo Mira</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/gossi">
+                    <img src="https://avatars.githubusercontent.com/u/283700?v=4" width="100;" alt="gossi"/>
+                    <br />
+                    <sub><b>Thomas Gossmann</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
 ## Contribution Guidelines
