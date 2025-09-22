@@ -198,6 +198,11 @@
 
 - [Reddit r/emberjs](https://www.reddit.com/r/emberjs/) - Community discussion
 
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
 ## Contribution Guidelines
 
 Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
