@@ -66,13 +66,13 @@
 
 ### UI Components
 
-- [ember-bootstrap](http://www.ember-bootstrap.com/) - Bootstrap components for Ember
-- [ember-power-select](https://github.com/cibernox/ember-power-select) - Extensible select component
-- [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - Basic dropdown component
-- [ember-power-calendar](https://github.com/cibernox/ember-power-calendar) - Customizable calendar component
-- [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - Flatpickr date picker integration
-- [ember-sortable](https://github.com/adopted-ember-addons/ember-sortable) - Sortable UI primitives
-- [ember-file-upload](https://github.com/adopted-ember-addons/ember-file-upload) - File upload component
+- [ember-bootstrap](https://www.ember-bootstrap.com/) - Bootstrap components for Ember - Since 2015 - [npm](https://www.npmjs.com/package/ember-bootstrap) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-bootstrap)
+- [ember-power-select](https://github.com/cibernox/ember-power-select) - Extensible select component - Since 2015 - [npm](https://www.npmjs.com/package/ember-power-select) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-power-select)
+- [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - Basic dropdown component - Since 2015 - [npm](https://www.npmjs.com/package/ember-basic-dropdown) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-basic-dropdown)
+- [ember-power-calendar](https://github.com/cibernox/ember-power-calendar) - Customizable calendar component - Since 2016 - [npm](https://www.npmjs.com/package/ember-power-calendar) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-power-calendar)
+- [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - Flatpickr date picker integration - Since 2016 - [npm](https://www.npmjs.com/package/ember-flatpickr) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-flatpickr)
+- [ember-sortable](https://github.com/adopted-ember-addons/ember-sortable) - Sortable UI primitives - Since 2015 - [npm](https://www.npmjs.com/package/ember-sortable) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-sortable)
+- [ember-file-upload](https://github.com/adopted-ember-addons/ember-file-upload) - File upload component - Since 2014 - [npm](https://www.npmjs.com/package/ember-file-upload) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-file-upload)
 
 ### Forms & Validation
 
