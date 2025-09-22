@@ -68,7 +68,10 @@
 - [ember-bootstrap](http://www.ember-bootstrap.com/) - Bootstrap components for Ember
 - [ember-power-select](https://github.com/cibernox/ember-power-select) - Extensible select component
 - [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - Basic dropdown component
+- [ember-power-calendar](https://github.com/cibernox/ember-power-calendar) - Customizable calendar component
 - [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - Flatpickr date picker integration
+- [ember-sortable](https://github.com/adopted-ember-addons/ember-sortable) - Sortable UI primitives
+- [ember-file-upload](https://github.com/adopted-ember-addons/ember-file-upload) - File upload component
 
 ### Forms & Validation
 
