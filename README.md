@@ -220,6 +220,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/elgordino">
+                    <img src="https://avatars.githubusercontent.com/u/19666042?v=4" width="100;" alt="elgordino"/>
+                    <br />
+                    <sub><b>Gordon Johnston</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/marcemira">
                     <img src="https://avatars.githubusercontent.com/u/1788212?v=4" width="100;" alt="marcemira"/>
                     <br />
