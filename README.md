@@ -83,8 +83,9 @@
 
 ### Styling
 
-- [glimmer-scoped-css](https://github.com/cardstack/glimmer-scoped-css) - enables automatic scoping of embedded `<style>` in the `<template>...</template>` of components.
-- [ember-scoped-css](https://github.com/auditboard/ember-scoped-css/) - enables usage of co-located CSS stylesheets with automated scoping of the styles. 
+- [ember-scoped-css](https://github.com/auditboard/ember-scoped-css/) - enables automatic sccoping of embedded `<style scoped>` in the `<template>...</template>` of components as well as optional usage of co-located CSS stylesheets with automated scoping of the styles. 
+- [glimmer-scoped-css](https://github.com/cardstack/glimmer-scoped-css) - enables automatic scoping of embedded `<style scoped>` in the `<template>...</template>` of components.
+
 
 
 ### Internationalization
