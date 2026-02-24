@@ -151,6 +151,32 @@
 
 - [Official docs for Editors](https://guides.emberjs.com/release/code-editors/)
 
+#### VSCode
+
+- [vscode-ember](https://github.com/ember-tooling/vscode-ember) - Ember extension for VSCode
+- [ember-language-server](https://github.com/ember-tooling/ember-language-server) - Language server providing code intelligence for Ember templates and components
+- [ember-source-lens](https://github.com/ember-tooling/ember-source-lens) - Source lens for navigating Ember source files
+- [snippets](https://github.com/ember-tooling/snippets) - Code snippets for Ember (also supports Neovim)
+
+#### Neovim
+
+- [ember.nvim](https://github.com/nullvoxpopuli/ember.nvim) - Neovim plugin for Ember development
+- [snippets](https://github.com/ember-tooling/snippets) - Code snippets for Ember (also supports VSCode)
+
+#### Vim
+
+- [vim-ember-hbs](https://github.com/joukevandermaas/vim-ember-hbs/pull/16) - Handlebars/Glimmer template syntax support for Vim
+
+#### Emacs
+
+- [glnt-ts-mode](https://github.com/overcast-software/glnt-ts-mode) - Glimmer TypeScript tree-sitter mode for Emacs
+
+#### Syntax
+
+- [tree-sitter-glimmer](https://github.com/ember-tooling/tree-sitter-glimmer) - Tree-sitter grammar for Glimmer templates
+- [tree-sitter-glimmer-javascript](https://github.com/ember-tooling/tree-sitter-glimmer-javascript) - Tree-sitter grammar for Glimmer with JavaScript
+- [tree-sitter-glimmer-typescript](https://github.com/ember-tooling/tree-sitter-glimmer-typescript) - Tree-sitter grammar for Glimmer with TypeScript
+
 ## Testing
 
 ### Runners
