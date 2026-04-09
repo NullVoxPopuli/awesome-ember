@@ -49,6 +49,7 @@
 - [NRG UI](https://github.com/knoxville-utilities-board/nrg-ui) - by Knoxville Utilities Board
 - [Carbon](https://github.com/IBM/carbon-components-ember) - by IBM
 - [Helios](https://github.com/hashicorp/design-system) - by Hashicorp
+- [shadcn-ember](https://shadcn-ember.com/) - [Source](https://github.com/IgnaceMaes/shadcn-ember) - shadcn/ui port for Ember — accessible and customizable components you can copy and paste into your apps - by @IgnaceMaes
 
 ## Libraries
 
@@ -75,6 +76,8 @@
 - [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - Flatpickr date picker integration - Since 2016 - [npm](https://www.npmjs.com/package/ember-flatpickr) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-flatpickr)
 - [ember-sortable](https://github.com/adopted-ember-addons/ember-sortable) - Sortable UI primitives - Since 2015 - [npm](https://www.npmjs.com/package/ember-sortable) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-sortable)
 - [ember-file-upload](https://github.com/adopted-ember-addons/ember-file-upload) - File upload component - Since 2014 - [npm](https://www.npmjs.com/package/ember-file-upload) - ![NPM Downloads](https://img.shields.io/npm/dm/ember-file-upload)
+- [ember-maplibre-gl](https://github.com/johanrd/ember-maplibre-gl) - [Docs](https://johanrd.github.io/ember-maplibre-gl) - Declarative MapLibre GL JS map components for Ember
+- [ember-safe-button](https://ember-safe-button.netlify.app/) - [Source](https://gitlab.com/michal-bryxi-oss/ember-safe-button) - Button component with confirmation for potentially dangerous actions
 
 ### Forms & Validation
 
@@ -96,10 +99,16 @@
 
 - [glint](https://github.com/typed-ember/glint) - TypeScript-plugin for enabling type-aware Ember 
 
+### Alternative Rendering
+
+- [ember-tui](https://github.com/patricklx/ember-tui) - Terminal UI library — build and test CLI tools using Ember.js with Flexbox layouts powered by Yoga
+
 ### Build Tools & Modern Compilation
 
 - [embroider](https://github.com/embroider-build/embroider) - Compiling Ember apps into spec-compliant, modern JavaScript
 - [ember-vite-codemod](https://github.com/mainmatter/ember-vite-codemod) - Migrates non-vite Ember Apps to Vite 
+- [vite-ember-ssr](https://github.com/evoactivity/vite-ember-ssr) - Vite plugin and SSR/SSG runtime for compatless Ember apps using HappyDOM — no FastBoot required
+- [vite-plugin-ember](https://github.com/aklkv/vite-plugin-ember) - Vite plugin for rendering live, interactive Ember components inside VitePress documentation pages
 
 ### Utilities 
 
@@ -133,6 +142,7 @@
 - [Ember API Docs](https://emberjs.com/api/) - Complete API reference
 - [Ember Data Guides](https://guides.emberjs.com/release/models/) - Data layer documentation
 - [Ember CLI User Guide](https://cli.emberjs.com/) - Command line tool documentation
+- [ember-fireplace](https://github.com/NullVoxPopuli/ember-fireplace) - Community research project aggregating Ember resources in one place
 
 ## Tools
 
@@ -141,11 +151,24 @@
 - [Ember Inspector](https://github.com/emberjs/ember-inspector) - Browser extension for debugging
 - [Ember CLI](https://ember-cli.com/) - Command line interface
 - [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - Update Ember CLI projects
+- [gember](https://github.com/bertdeblock/gember) - Modern generators for Ember apps and addons (components, routes, services, and more)
+- [ember.nvp](https://github.com/NullVoxPopuli/ember.nvp) - Ember project generator with idempotent, layered features — a reenvisioning of blueprints
+- [refined-ember](https://github.com/bertdeblock/refined-ember) - CSS refinements for Ember documentation websites (API docs, Guides, CLI docs)
 
 ### Code Quality
 
 - [ember-template-lint](https://github.com/ember-template-lint/ember-template-lint) - Template linting
 - [eslint-plugin-ember](https://github.com/ember-cli/eslint-plugin-ember) - ESLint rules for Ember
+
+### Codemods
+
+- [ember-estree](https://github.com/NullVoxPopuli/ember-estree) - ESTree-compatible AST parser for `.gjs` and `.gts` files — enables linters and codemods to work with both JS/TS and template portions
+- [zmod-ember](https://github.com/NullVoxPopuli/zmod-ember) - Adapter for the [zmod](https://github.com/NaamuKim/zmod) codemod toolkit to support Ember's `.gjs` and `.gts` files via ember-estree
+
+### AI
+
+- [agent-skills](https://github.com/ember-tooling/agent-skills) - Collection of skills for AI coding agents following the [Agent Skills](https://agentskills.io/) format — includes Ember best practices across 7 categories
+- [ember-mcp](https://github.com/ember-tooling/ember-mcp) - MCP server providing access to Ember documentation, API references, guides, and best practices
 
 ### IDE Support
 
@@ -191,6 +214,7 @@
 - [ember-percy](https://github.com/percy/ember-percy) - Visual regression testing
 - [ember-exam](https://github.com/trentmwillis/ember-exam) - Test randomization, splitting, and parallelization
 - [@universal-ember/test-support](https://github.com/universal-ember/test-support) - Collection of additional, community maintained, test-utilities
+- [testem-code-coverage](https://github.com/NullVoxPopuli/testem-code-coverage) - Browser test coverage using Chrome's native `startPreciseCoverage` — no Babel plugins needed
 
 
 ## Community
