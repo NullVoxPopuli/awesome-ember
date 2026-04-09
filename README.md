@@ -61,6 +61,7 @@
 ### Authentication
 
 - [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - Lightweight (multi-)authentication library
+- [ember-better-auth](https://github.com/ember-integrations/ember-better-auth) - Ember adapter for [better-auth](https://better-auth.com/)
 
 ### Data Management
 
