@@ -273,6 +273,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/gossi">
+                    <img src="https://avatars.githubusercontent.com/u/283700?v=4" width="100;" alt="gossi"/>
+                    <br />
+                    <sub><b>Thomas Gossmann</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/elgordino">
                     <img src="https://avatars.githubusercontent.com/u/19666042?v=4" width="100;" alt="elgordino"/>
                     <br />
@@ -284,13 +291,6 @@
                     <img src="https://avatars.githubusercontent.com/u/1788212?v=4" width="100;" alt="marcemira"/>
                     <br />
                     <sub><b>Marcelo Mira</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/gossi">
-                    <img src="https://avatars.githubusercontent.com/u/283700?v=4" width="100;" alt="gossi"/>
-                    <br />
-                    <sub><b>Thomas Gossmann</b></sub>
                 </a>
             </td>
 		</tr>
