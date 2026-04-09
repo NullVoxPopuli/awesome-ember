@@ -101,6 +101,7 @@
 
 ### Alternative Rendering
 
+- [ember-native](https://github.com/ember-native/ember-native) - Use the Ember framework with NativeScript
 - [ember-tui](https://github.com/patricklx/ember-tui) - Terminal UI library — build and test CLI tools using Ember.js with Flexbox layouts powered by Yoga
 
 ### Build Tools & Modern Compilation
