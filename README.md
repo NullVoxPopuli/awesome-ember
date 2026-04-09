@@ -142,6 +142,7 @@
 - [Ember API Docs](https://emberjs.com/api/) - Complete API reference
 - [Ember Data Guides](https://guides.emberjs.com/release/models/) - Data layer documentation
 - [Ember CLI User Guide](https://cli.emberjs.com/) - Command line tool documentation
+- [ember-fireplace](https://github.com/NullVoxPopuli/ember-fireplace) - Community research project aggregating Ember resources in one place
 
 ## Tools
 
@@ -167,7 +168,7 @@
 ### AI
 
 - [agent-skills](https://github.com/ember-tooling/agent-skills) - Collection of skills for AI coding agents following the [Agent Skills](https://agentskills.io/) format — includes Ember best practices across 7 categories
-- [ember-fireplace](https://github.com/NullVoxPopuli/ember-fireplace) - Community research project aggregating Ember resources for humans and AI agents
+- [ember-mcp](https://github.com/ember-tooling/ember-mcp) - MCP server providing access to Ember documentation, API references, guides, and best practices
 
 ### IDE Support
 
